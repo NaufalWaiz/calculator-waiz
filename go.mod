@@ -1,3 +1,3 @@
-module github.com/NaufalWaiz/calculator-waiz
+module github.com/NaufalWaiz/calculator
 
 go 1.23.2
